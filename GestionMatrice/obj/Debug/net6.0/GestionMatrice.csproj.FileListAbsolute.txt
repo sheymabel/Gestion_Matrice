@@ -1,0 +1,4 @@
+C:\Users\MSI\Desktop\GestionMatrice\GestionMatrice\obj\Debug\net6.0\GestionMatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\GestionMatrice\GestionMatrice\obj\Debug\net6.0\GestionMatrice.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\GestionMatrice\GestionMatrice\obj\Debug\net6.0\GestionMatrice.AssemblyInfo.cs
+C:\Users\MSI\Desktop\GestionMatrice\GestionMatrice\obj\Debug\net6.0\GestionMatrice.csproj.CoreCompileInputs.cache
